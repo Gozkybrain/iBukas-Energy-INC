@@ -18,7 +18,7 @@ For each appliance:
 - Set the **quantity** using the `−` / `+` stepper.
 - Click **Add Appliance** to add it to your list.
 
-![Calculator appliance selector](public/images/cost.webp)
+![Calculator appliance selector](fix.webp)
 
 ### 2. Review Your List
 
