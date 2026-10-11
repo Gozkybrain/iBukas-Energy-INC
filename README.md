@@ -1,4 +1,4 @@
-# iBukas Energy — Solar System Calculator
+# iBukas Energy — Solar System Calculator System
 
 Plan your solar setup in minutes. Select your appliances, set your usage, and get instant estimates for inverters, batteries, and solar panels — no technical knowledge required.
 
